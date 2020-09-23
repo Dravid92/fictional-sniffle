@@ -12,9 +12,9 @@
 
 ## https://www.kaggle.com/mirichoi0218/insurance
 
-## Task 1 - Predict the Insurance Cost 
+- ### Task 1 - Predict the Insurance Cost 
 
-## Task 2 - Predict Whether the person Smokes 
+- ### Task 2 - Predict Whether the person Smokes 
 
 ## Variables :
 - **age**: age of primary beneficiary
